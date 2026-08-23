@@ -1,0 +1,13 @@
+name = "Armored Elytra"
+filename = "armored-elytra-1.13.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AuFCCYMx/versions/fYjUcMhW/armored-elytra-1.13.0.jar"
+hash-format = "sha512"
+hash = "d8fe692032d96b7bba3e95fdad10378d27ef2f1adf88b45ec947572943f45616f37803b447c4824b40f430c13350dd395d655fe5a0c0ebc89534db507fbbaf67"
+
+[update]
+[update.modrinth]
+mod-id = "AuFCCYMx"
+version = "fYjUcMhW"

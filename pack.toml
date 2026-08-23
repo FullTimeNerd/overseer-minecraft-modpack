@@ -1,0 +1,13 @@
+name = "Overseer Minecraft"
+author = "Minecraft Server"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1940665d129e94cac9b3223ccb6ad12ddcdc36fbb6a31bc2a2fe0f61210febf"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.1.2"
