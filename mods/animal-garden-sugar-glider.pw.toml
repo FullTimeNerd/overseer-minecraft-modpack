@@ -1,0 +1,13 @@
+name = "Animal Garden - Sugar Glider"
+filename = "animalgarden_sugarglider-1.0.2-fabric-26.2-0.152.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WktWffF9/versions/SSxQ7TMe/animalgarden_sugarglider-1.0.2-fabric-26.2-0.152.2.jar"
+hash-format = "sha512"
+hash = "dcfd2f7adda0264b2decdcf86ded5aa0acc1dc32c2f75a1b80ee2ca32c54068bd88f2c7e3af583782f8f26f038f3af1a121d93c0b791e4696930b7ae0aee6ffe"
+
+[update]
+[update.modrinth]
+mod-id = "WktWffF9"
+version = "SSxQ7TMe"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Porcupine"
+filename = "animalgarden_porcupine-1.0.5-fabric-26.1.1-0.145.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0TRBPCH/versions/pGXoYLQT/animalgarden_porcupine-1.0.5-fabric-26.1.1-0.145.2.jar"
+hash-format = "sha512"
+hash = "11984b243484ff203a9fb1a0bd0c154fb9bf570fe31c176ccb73d427efac53194189db4e65e356d354c70660d7f84b0dd33aea00a5b10ecf0d9098328ff817ae"
+
+[update]
+[update.modrinth]
+mod-id = "m0TRBPCH"
+version = "pGXoYLQT"

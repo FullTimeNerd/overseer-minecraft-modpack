@@ -1,8 +1,53 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "65bb109ab9716d21baa9d470c435df1169db0aa2e4c8d94997409239a5122ba1"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-fennec-fox.pw.toml"
+hash = "f30652e636d4c90920686687b351392899d3d3bce7bbe088530e4717d58e53c3"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-meerkat.pw.toml"
+hash = "d60a8ecfa373ae8e913bc96a7a55e0c445403aa0ced20cdcf320f606618ec71c"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-owl.pw.toml"
+hash = "f8af320c3ba734499b0a8e76dfb8f79de0789c33d04ef5ed50cb16ef1d2cd16c"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-porcupine.pw.toml"
+hash = "2b4108b322f7830ff2545e527d5d4fdb31c3f99dc69dd5d10bf3fa7e784afd97"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-red-panda.pw.toml"
+hash = "05701740e69192296b023cf08c6db96fa5292491f76e9d8af5b43385f7540e06"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-sea-otter.pw.toml"
+hash = "f9c3956e71b538948f35467ec43b6f9541d402caee90297e536b2d87913d5068"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-sugar-glider.pw.toml"
+hash = "3db58a2722efd68901c107c7e6631c74b34ea15927fd7b81266a51c916d0c137"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
+metafile = true
+
+[[files]]
+file = "mods/aquarius-libs.pw.toml"
+hash = "1ec7b37456aa76bc5e25bfdf1c557a68d4c9f7a7f9c3ae69050229350294dddc"
 metafile = true
 
 [[files]]
@@ -21,6 +66,11 @@ hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
 
 [[files]]
+file = "mods/codxlib.pw.toml"
+hash = "e4cf279453a933f80cb758d54f606bbc9d048646079f8f26f6214cd3f272a888"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "288e36db1236f9fdf52278eae50ca4614861ac4b8e2d3d65cfbcb860292d66bf"
 metafile = true
@@ -28,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-armor.pw.toml"
 hash = "d7804014f7fa41189dbfa8b61eb3bf5f53e7e3a48fca27fe4e8034d17ad69acc"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "06babbfec4b69f8d7b8dfbc3adb9c26fb1fd4f148d6c6f2ff5b07e8c1e141c5f"
 metafile = true
 
 [[files]]
@@ -48,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "a6b342a387653f2accd5d812b748fa71144de254ecfa706d6ec8b6ee7e1afefc"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5167300c20ddf213682684de252d3f30923fad22ec0f154065222f350db28e6b"
+metafile = true
+
+[[files]]
+file = "mods/nemos-woodcutter.pw.toml"
+hash = "4d604745ecf1311291539c303e31676468897ce1fc2684f48d8b433e9b659096"
 metafile = true
 
 [[files]]
