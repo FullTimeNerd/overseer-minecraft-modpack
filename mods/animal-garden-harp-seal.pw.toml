@@ -1,0 +1,13 @@
+name = "Animal Garden - Harp Seal"
+filename = "animalgarden-harpseal-1.0.1-fabric-26.1.1-0.145.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NvaiT3Fr/versions/sCkeeAwH/animalgarden-harpseal-1.0.1-fabric-26.1.1-0.145.3.jar"
+hash-format = "sha512"
+hash = "3195b5f2211dc3c5a097962d0b972e611fa6701ec3f1b0109879905e30bc21e8adef91cf7e7728e94f62d34f2dcaef8a37efb6a621d81c904a4a69391a9c3b44"
+
+[update]
+[update.modrinth]
+mod-id = "NvaiT3Fr"
+version = "sCkeeAwH"

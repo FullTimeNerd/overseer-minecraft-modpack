@@ -11,6 +11,11 @@ hash = "f30652e636d4c90920686687b351392899d3d3bce7bbe088530e4717d58e53c3"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-harp-seal.pw.toml"
+hash = "47e56015d50ecc271feddd18a181c4c4ba62403bb405fafed05b169d5b0f5797"
+metafile = true
+
+[[files]]
 file = "mods/animal-garden-meerkat.pw.toml"
 hash = "d60a8ecfa373ae8e913bc96a7a55e0c445403aa0ced20cdcf320f606618ec71c"
 metafile = true
