@@ -1,0 +1,13 @@
+name = "Lyngarr's Wandering Pets"
+filename = "lyngarrwanderingpets-2.1.0+26.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZgiUlt5/versions/ZMMx5jm0/lyngarrwanderingpets-2.1.0%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "c9e779471d60ae0ec8410d444ca7d5b7d623478ccca5be93adbae25e53c123397dffe8d34986332a8488e90e17b08fe3043ab3e998e12573c3a99853c723aba7"
+
+[update]
+[update.modrinth]
+mod-id = "IZgiUlt5"
+version = "ZMMx5jm0"

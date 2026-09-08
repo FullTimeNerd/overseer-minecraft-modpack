@@ -46,6 +46,11 @@ hash = "3db58a2722efd68901c107c7e6631c74b34ea15927fd7b81266a51c916d0c137"
 metafile = true
 
 [[files]]
+file = "mods/applerooxs-invincible-pets.pw.toml"
+hash = "2b2d9d4de2a31ba5f10124c0d68cc1edc2b75cf1c88deb29a21d527b332ba706"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/codxlib.pw.toml"
 hash = "e4cf279453a933f80cb758d54f606bbc9d048646079f8f26f6214cd3f272a888"
+metafile = true
+
+[[files]]
+file = "mods/craft-rooted-dirt.pw.toml"
+hash = "f6106ea24f02d82d154cc96c47441085b17c85d64354b19bcd3c3e4aabc4f2f4"
 metafile = true
 
 [[files]]
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "a6b342a387653f2accd5d812b748fa71144de254ecfa706d6ec8b6ee7e1afefc"
+metafile = true
+
+[[files]]
+file = "mods/lyngarr-wandering-pets.pw.toml"
+hash = "d1c0a238184f0faabbc7380481459604103ce91e3198405afffdc1e92bd76f38"
 metafile = true
 
 [[files]]

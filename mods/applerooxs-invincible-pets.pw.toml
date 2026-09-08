@@ -1,0 +1,13 @@
+name = "Invincible Pets"
+filename = "invincible-pets-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gCCRPLR3/versions/DpzK8ZiH/invincible-pets-0.1.0.jar"
+hash-format = "sha512"
+hash = "ad4428378458a9630473d43a65bd76c2e82dd7caa1206db3915463a93ba7a947209e0f52346a31004091601b7dc1cb9bc20569b765d699e67ef1252ac7384ffc"
+
+[update]
+[update.modrinth]
+mod-id = "gCCRPLR3"
+version = "DpzK8ZiH"
