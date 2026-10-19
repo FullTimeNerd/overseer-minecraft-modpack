@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/alexs-mobs-continued.pw.toml"
-hash = "65bb109ab9716d21baa9d470c435df1169db0aa2e4c8d94997409239a5122ba1"
+hash = "94d7ec01797b123f0513543b5ee905783e751501122c090bcb46618e01bf2f38"
 metafile = true
 
 [[files]]
@@ -62,7 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "acb1cfcd29bee820e0151739954616858bbf1a2ffc244a9fcf1824f16fa8362b"
+hash = "5a1e1b261f3e77b62b11e141bf935dd72a687ea1b41e2890a963410bffbeceb6"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "acc9cf75e30714cfc43cb5c7ff57091612a2e0c92c6ce63e7f9772b95e34b109"
 metafile = true
 
 [[files]]
@@ -82,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/codxlib.pw.toml"
-hash = "e4cf279453a933f80cb758d54f606bbc9d048646079f8f26f6214cd3f272a888"
+hash = "e5052ebcd0c762ca99bbdea707f8438f6b11f9b158665d9afdd2c76fe317f822"
 metafile = true
 
 [[files]]
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "288e36db1236f9fdf52278eae50ca4614861ac4b8e2d3d65cfbcb860292d66bf"
+hash = "b6bde01f13039d68615fdc58c553dfbcff56c469b9358624a6e65b3f62e51953"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
+hash = "4bf67b07b8a2f4f56689900cb85f645fe15130aba819e79d9e9b3ef651a1d2e6"
 metafile = true
 
 [[files]]
@@ -206,6 +211,11 @@ hash = "4d604745ecf1311291539c303e31676468897ce1fc2684f48d8b433e9b659096"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "083c11a502dc9c9bfc7ac5320c698958e529f9ca47d7104f4b5f401c2474ecdd"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "e150f878c499420771611573124cb438b1b9d831bc86ef00c9e5e7afccbad5e9"
 metafile = true
@@ -217,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "27f525160243b25cadc2e7202f663ed1da1638204ba80c8ce9f651ed10ba7fb1"
+hash = "6b68ddb23f1306e5f73e89d48e7bea8bf97eb136721b9b6cd57f235dac01e97b"
 metafile = true
 
 [[files]]
@@ -232,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiered-backpacks.pw.toml"
-hash = "2aa5b8a0ed05370caab093d263f1e849cf9e71bbb85f4e784ec191613628863c"
+hash = "742735bf4217b4395ee48fc92bb4b02fab0e9e763a972964a74f629f69603497"
 metafile = true
 
 [[files]]
