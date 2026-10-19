@@ -1,0 +1,13 @@
+name = "Durability Ping"
+filename = "durability-ping-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QL3Jvz7u/versions/8P1hGvRs/durability-ping-1.4.jar"
+hash-format = "sha512"
+hash = "cde58371034a88cd798d6a62b3434275c81c08c1baa3fd65c6e0df4b4ae6ca2f00c4ca874364ef9ad7634a53c0a8ec4af0248772e31a6dea22baf389a942f2cf"
+
+[update]
+[update.modrinth]
+mod-id = "QL3Jvz7u"
+version = "8P1hGvRs"

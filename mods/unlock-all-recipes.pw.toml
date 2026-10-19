@@ -1,0 +1,13 @@
+name = "Unlock All Recipes"
+filename = "unlock-all-recipes-101.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rGdirrbP/versions/aA1hdaRV/unlock-all-recipes-101.1.jar"
+hash-format = "sha512"
+hash = "c2cbaf5e9d3e7bf3578d90c751647ec015d77a20afab2708e3ff21ee961b5554802650e0f44f28c5c6340ad825554b88712b20d5a59faa5a5e3ee4b5b103185a"
+
+[update]
+[update.modrinth]
+mod-id = "rGdirrbP"
+version = "aA1hdaRV"

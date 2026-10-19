@@ -66,8 +66,18 @@ hash = "acb1cfcd29bee820e0151739954616858bbf1a2ffc244a9fcf1824f16fa8362b"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "acc9cf75e30714cfc43cb5c7ff57091612a2e0c92c6ce63e7f9772b95e34b109"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "9fa6ca1afa5b6b06ed5ac6706dc544206a57792d1fbaa3dddec59ea77d99b418"
+metafile = true
+
+[[files]]
+file = "mods/bettermultiplayersleep.pw.toml"
+hash = "0d29603ff776063154ca02a9bf89a21d6c7b2905ac44d5fce9c631c1380e263f"
 metafile = true
 
 [[files]]
@@ -91,6 +101,61 @@ hash = "288e36db1236f9fdf52278eae50ca4614861ac4b8e2d3d65cfbcb860292d66bf"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "dc70d618edbc3d67e29ff7bb0264faa6bc330a47f5a269f60a05c803bb9fb8c7"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "6629e90b80cef74e7ef358a71a0baa6fb990d4eb0e5c06e4bed856c99a3db01d"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "073d9e3cd54b6417982106c006e42d9e37cb0543d3953f49fd0cbc2b0856e4b5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "165ea8db8aaac2414bee605e0ad43646797e54856e9215f39cb2708117208fa2"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "3ab15b5692534ed29589bf26ccbe3d8a8f86a25eef1c4115226a8fa2e3ad6d1a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "19ce920d3d6cf9d2f28cab369567fe605135769997c699fc20646116de0e2671"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "d804d751b2c785b17464d238888278662b4ca8b72902ded34c38e8e13ac471dd"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "26eed7c888806f5a9b33d07cf31a9e8a32128cadbcc0c3fe2e427e19e30d75df"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "7897b302a81d821dfd3c2c431d97b2020f631d228effcd000374c73fae8f7c2d"
+metafile = true
+
+[[files]]
+file = "mods/durability-ping.pw.toml"
+hash = "5900eeb59f736c97f917242df9f78d63883635c3ee599047d409a58deab0826d"
+metafile = true
+
+[[files]]
 file = "mods/elytra-armor.pw.toml"
 hash = "d7804014f7fa41189dbfa8b61eb3bf5f53e7e3a48fca27fe4e8034d17ad69acc"
 metafile = true
@@ -111,6 +176,11 @@ hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "74e95341b8bdf8953275719b14638a92bba736c8ab9c6a8d09275b56d76321be"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
@@ -118,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "a6b342a387653f2accd5d812b748fa71144de254ecfa706d6ec8b6ee7e1afefc"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "97f04266f693bea79ba4d25e040119a126f7790abb606c9a46d5b0416dcf693f"
 metafile = true
 
 [[files]]
@@ -136,6 +211,11 @@ hash = "4d604745ecf1311291539c303e31676468897ce1fc2684f48d8b433e9b659096"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "083c11a502dc9c9bfc7ac5320c698958e529f9ca47d7104f4b5f401c2474ecdd"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "e150f878c499420771611573124cb438b1b9d831bc86ef00c9e5e7afccbad5e9"
 metafile = true
@@ -151,6 +231,16 @@ hash = "27f525160243b25cadc2e7202f663ed1da1638204ba80c8ce9f651ed10ba7fb1"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
 file = "mods/tiered-backpacks.pw.toml"
 hash = "2aa5b8a0ed05370caab093d263f1e849cf9e71bbb85f4e784ec191613628863c"
 metafile = true
@@ -158,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
+metafile = true
+
+[[files]]
+file = "mods/unlock-all-recipes.pw.toml"
+hash = "9a2700a354f3a98a8b5f7484cbba91233462c92505a2ddb00edbd55f6b3fc4d2"
 metafile = true
 
 [[files]]
