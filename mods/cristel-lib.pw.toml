@@ -1,13 +1,13 @@
 name = "Cristel Lib"
-filename = "cristellib-fabric-26.1.2-3.1.13.jar"
+filename = "cristellib-fabric-26.2-3.1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cl223EMc/versions/JDTs3eQM/cristellib-fabric-26.1.2-3.1.13.jar"
+url = "https://cdn.modrinth.com/data/cl223EMc/versions/6cKPC8Up/cristellib-fabric-26.2-3.1.13.jar"
 hash-format = "sha512"
-hash = "747e346398875fdf4666205eb7735eaff830307c11213901204fbdf7822812491762e1800b3192219ff35036a846a9caaa6675d20f3d763bacbb589b95cfcdaf"
+hash = "15444c2166b7504cf88af4f15bc831dbc056d2cdbe7d5ae4c6d1980179ea70ddfbe5d3ce2cd1615a14741f7fe5d5ab7fff41dd26b78e3ef89866b28416ce895c"
 
 [update]
 [update.modrinth]
 mod-id = "cl223EMc"
-version = "JDTs3eQM"
+version = "6cKPC8Up"
