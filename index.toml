@@ -66,11 +66,6 @@ hash = "acb1cfcd29bee820e0151739954616858bbf1a2ffc244a9fcf1824f16fa8362b"
 metafile = true
 
 [[files]]
-file = "mods/armor-statues.pw.toml"
-hash = "acc9cf75e30714cfc43cb5c7ff57091612a2e0c92c6ce63e7f9772b95e34b109"
-metafile = true
-
-[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "9fa6ca1afa5b6b06ed5ac6706dc544206a57792d1fbaa3dddec59ea77d99b418"
 metafile = true
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
+hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
 metafile = true
 
 [[files]]
@@ -208,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/nemos-woodcutter.pw.toml"
 hash = "4d604745ecf1311291539c303e31676468897ce1fc2684f48d8b433e9b659096"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "083c11a502dc9c9bfc7ac5320c698958e529f9ca47d7104f4b5f401c2474ecdd"
 metafile = true
 
 [[files]]
