@@ -1,13 +1,13 @@
 name = "VeinMiner Enchantment"
-filename = "veinminer-enchant-2.11.2.jar"
+filename = "veinminer-enchant-2.13.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4sP0LXxp/versions/9C8zH5YI/veinminer-enchant-2.11.2.jar"
+url = "https://cdn.modrinth.com/data/4sP0LXxp/versions/2Y8IKaDH/veinminer-enchant-2.13.0.jar"
 hash-format = "sha512"
-hash = "137beb06892399fa45219cb99cb51415a9445979dfbb5b7425034b4c3970da3d5526c2fef29b8667ec52438f33f993ebf5663e06e61f79f5423726c3d219b8de"
+hash = "aa7da8f6f55260cd63c6736212c9638bf4bfd14962b1f7cc507854e6cae147bed945c71912561b15abd76b933f3fe12242eb1c441cf54d2f8761b23ba8805712"
 
 [update]
 [update.modrinth]
 mod-id = "4sP0LXxp"
-version = "9C8zH5YI"
+version = "2Y8IKaDH"

@@ -1,13 +1,13 @@
 name = "Craftable Rooted Dirt"
-filename = "craft-rooted-dirt-107.1.jar"
+filename = "craft-rooted-dirt-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tGBav6hi/versions/rZy77g7c/craft-rooted-dirt-107.1.jar"
+url = "https://cdn.modrinth.com/data/tGBav6hi/versions/vRsJnEGV/craft-rooted-dirt-1.1.0.jar"
 hash-format = "sha512"
-hash = "48945dc2f193a08a13d76e6d5f55359efb402390cb2244dbcb94fec2a2433d5df295a94e5c35fc50f09c6db0c16c03b00594d7f0a0dd5f755b14f80d10626c07"
+hash = "cad7fcb448039523fd362de6eea37421a844646ab85df80ade6b96d34fed5acb5cd9051766649d12470a40b15bce4c83e322e90da14c9410203f26c2bfd21948"
 
 [update]
 [update.modrinth]
 mod-id = "tGBav6hi"
-version = "rZy77g7c"
+version = "vRsJnEGV"

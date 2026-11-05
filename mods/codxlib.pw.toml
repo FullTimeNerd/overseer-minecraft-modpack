@@ -1,13 +1,13 @@
 name = "CodxLib"
-filename = "codxlib-1.6.1-fabric+26.2.jar"
+filename = "codxlib-1.6.1-fabric+26.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/6oyMM4yX/versions/7QFD2RRu/codxlib-1.6.1-fabric%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/6oyMM4yX/versions/W7Cpzahs/codxlib-1.6.1-fabric%2B26.3.jar"
 hash-format = "sha512"
-hash = "fcb94e202552a315b8de45eec2c572a8ef5f6aea1a0b9dd8fb78bcd67a67ce1cec548bbffc8a990f6bc282f26adce0d0e8bc42b8e9070a3f6369426ca4bfcd09"
+hash = "ecea04cc5957dbe9b870f54918ad5a3d1df7c6286c815ea5589559cd39c1b170fbbc5549499515932a19da065634cac963d7f05d57a353be8b8ce97913cb5242"
 
 [update]
 [update.modrinth]
 mod-id = "6oyMM4yX"
-version = "7QFD2RRu"
+version = "W7Cpzahs"

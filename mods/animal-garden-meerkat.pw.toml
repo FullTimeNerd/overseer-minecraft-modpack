@@ -1,13 +1,13 @@
 name = "Animal Garden - Meerkat"
-filename = "animalgarden_meerkat-1.0.6-fabric-26.1.2-0.145.2.jar"
+filename = "animalgarden-meerkat-1.0.6-fabric-26.3-0.161.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zOJ4MhgQ/versions/HtfIRefa/animalgarden_meerkat-1.0.6-fabric-26.1.2-0.145.2.jar"
+url = "https://cdn.modrinth.com/data/zOJ4MhgQ/versions/6vA9rqvD/animalgarden-meerkat-1.0.6-fabric-26.3-0.161.0.jar"
 hash-format = "sha512"
-hash = "a3a24d41810570206b4a3a743878eb0acf6096fb850f7d3f65f9923ac55c730d612436b770dce32175d7d9f72099c8459240b2bdcf255be044e27919ea78c40b"
+hash = "46fe831b038263098c0aa6b08e58d6767b202a8fa2c54cda7678a31a63519d66f5b11aa76251c190029c8177e1cfaebe33da7a9a5eab52f934e4cb523e04dec4"
 
 [update]
 [update.modrinth]
 mod-id = "zOJ4MhgQ"
-version = "HtfIRefa"
+version = "6vA9rqvD"
